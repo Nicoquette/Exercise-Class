@@ -5,7 +5,7 @@ area1=calcular_area(5,10)
 print(f"El área del rectángulo es: {area1}")
 
 
-def  menu ():
+def menu ():
     print("menu")
     print("1. Opción 1")
     print("2. Opción 2")        
@@ -32,7 +32,7 @@ print(mitupla[0])
 
 #DICCIONARY
 
-mydiccionary={
+mydiccionary = {
     "Clave1": 1,
     "Clave2": 2,
     "Clave3": 3,
@@ -40,4 +40,4 @@ mydiccionary={
 
 mydiccionary["Clave1"]=20
 print(mydiccionary["Clave1"])
-
+#Mini prueba
